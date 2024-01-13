@@ -1,0 +1,13 @@
+Field_X = 8
+Field_Y = 8
+time = 1000
+Time_delta = 500
+Hive = 3|2
+Hive = 2|6
+Hive = 6|5
+Hive = 2|2
+Hive = 3|5
+Flower = Chamomile|6|8
+Flower = Chamomile|7|1
+Flower = Dandelion|4|3
+Flower = Dandelion|2|1
